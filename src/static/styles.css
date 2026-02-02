@@ -6,6 +6,17 @@
 }
 
 body {
+  list-style-type: none;
+  padding: 0;
+}
+
+.delete-icon {
+  cursor: pointer;
+  margin-left: 10px;
+  color: red;
+}
+
+body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
